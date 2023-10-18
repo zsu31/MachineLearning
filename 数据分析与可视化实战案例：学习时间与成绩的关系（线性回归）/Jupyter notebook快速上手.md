@@ -1,5 +1,3 @@
-# Jupyter notebook快速上手
-
 # 为什么学Jupyter notebook？
 
 ![jupyter notebook](https://upload-images.jianshu.io/upload_images/13714448-24964dfe5bf967db.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
