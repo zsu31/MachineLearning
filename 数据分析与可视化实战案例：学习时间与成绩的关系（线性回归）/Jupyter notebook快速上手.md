@@ -1,17 +1,5 @@
 # Jupyter notebook快速上手
 
-> 张子豪 同济大学研究生
-
-的Bilibili视频教程：[同济子豪兄](https://space.bilibili.com/1900783/#/)<br>
-
-知乎专栏：[人工智能小技巧](https://zhuanlan.zhihu.com/c_1032626015746502656)<br>
-
-简书专栏：[人工智能小技巧](https://www.jianshu.com/u/38cccf09b515)<br>
-
-子豪兄的粉丝答疑交流QQ群：953712961
-
-[TOC]
-
 # 为什么学Jupyter notebook？
 
 ![jupyter notebook](https://upload-images.jianshu.io/upload_images/13714448-24964dfe5bf967db.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
