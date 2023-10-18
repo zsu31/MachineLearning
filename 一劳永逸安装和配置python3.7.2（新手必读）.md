@@ -462,4 +462,3 @@ pycharm的界面冷若冰霜，代码纷繁复杂，窗口星罗棋布，环境�
 
 ![pycharm界面](https://upload-images.jianshu.io/upload_images/13714448-d08f1c4b83b8c22f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
->配置环境过程中还有一些奇技淫巧，比如切换不同python版本的解释器，用pipenv或conda配置虚拟环境等，我们会在后续课程中需要用到的时候讲解
