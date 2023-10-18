@@ -418,8 +418,6 @@ pip install thonny jupyter spyder
 
 ## Anaconda：科学计算全家桶
 
-> 个人建议：新手不需要用Anaconda，需要什么库直接按照上述方法`pip install`即可，再学一下`pipenv`虚拟环境搭建，就可以了。
-
 Anaconda包括Conda包管理器、Python解释器以及一大堆安装好的科学计算工具包，比如：numpy、pandas等。因为包含了大量的科学计算包，Anaconda 的下载文件比较大（约 600 MB），如果只需要某些包，或者需要存储空间，可以使用占用空间较小的Miniconda（仅包含包管理器conda和 Python解释器）。
 
 Anaconda可以从清华大学开源软件镜像站下载，最新版本下载链接如下：
