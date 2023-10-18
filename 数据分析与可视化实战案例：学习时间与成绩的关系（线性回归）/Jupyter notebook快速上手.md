@@ -203,23 +203,5 @@ $$x = \frac{-b\pm \sqrt{b^2-4ac}}{2a}$$
 
 ![渲染之后的Latex数学公式](https://upload-images.jianshu.io/upload_images/13714448-7fa655030c9da5ec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-# 数据分析与可视化实战案例：学习时间与成绩的关系（线性回归）
 
-先用excel把玩数据
-
-![excel中的线性回归](https://upload-images.jianshu.io/upload_images/13714448-8aeb063599a395b6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-观察数据、导入数据、划分特征和标签、划分训练集和测试集、构建模型，模型可视化
-
-# 用Jupyter notebook制作ppt并在线分享
-
-
-
-# 参考博客
-
-[左手代码，右手写作：你必须会的Jupyter Notebook](<https://www.jianshu.com/p/86117613b7a6>)<br>
-
-[二十分钟精通排版神器Markdown，从此word和秀米是路人](<https://www.jianshu.com/p/4475b9d8810f>)<br>
-
-[Bilibili视频：二十分钟精通排版神器Markdown](<https://www.bilibili.com/video/av35579542>)<br>
 
